@@ -20,7 +20,7 @@ Install with mops
 You need mops installed. In your project directory run [Mops](https://mops.one/):
 
 ```sh
-mops add xxhash
+mops add bisect
 ```
 
 ### Usage 
