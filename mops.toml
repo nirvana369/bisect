@@ -1,0 +1,16 @@
+[package]
+name = "bisect"
+version = "1.0.0"
+description = "The `bisect` library provides utility functions to insert elements into **sorted arrays** while maintaining order. It is particularly useful in binary search and ordered data manipulation"
+repository = "https://github.com/nirvana369/bisect"
+keywords = [
+  "bisect",
+  "sorted-arrays",
+  "binary-search",
+  "indexing",
+  "insertion"
+]
+license = "MIT"
+
+[dev-dependencies]
+test = "2.1.1"
